@@ -16,9 +16,9 @@
 
 你也可以到网盘下载。
 
-1、百度网盘：链接: https://pan.baidu.com/s/1S2tq5TcBSrJ8Zj5i6D7TmQ 提取码: mmtv。
+1、百度网盘：链接: https://pan.baidu.com/s/1n6GD4MiqJL1TVSOXUrgHBw 提取码: bjia
 
-2、天翼云盘：https://cloud.189.cn/t/3YFVjiaQZzIf (icon-player.zip)
+2、天翼云盘：https://cloud.189.cn/t/zQJRbeiUNFVn
 
 # 我想自己编译该怎么办？
 本项目的开发环境是 Windows x64 + [msys2](https://www.msys2.org/)。
