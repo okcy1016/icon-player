@@ -27,7 +27,7 @@ bool modeStarted = false;
 
 int main(int argc, char **argv) {
   Fl_Window *mainWindow = new Fl_Window(350, 420, "桌面图标把玩器 v0.6");
-  Fl_Box *helpLabelBox = new Fl_Box(20, 20, 320, 170, "欢迎使用桌面图标把玩器 v0.6！\n(by okcy)\n\n在这里，你可以让你的图标组成旋转动画，\n也可以体验图标贪吃蛇 ...\n\n在使用之前请在 \'桌面右键菜单->查看\' 中\n关闭 \'自动排列图标\' 和 \'将图标与网格对齐\'！\n此外，强烈建议先备份当前桌面布局！\n\n请选择游玩模式：");
+  Fl_Box *helpLabelBox = new Fl_Box(20, 20, 320, 170, "欢迎使用桌面图标把玩器 v0.6！\n\n在这里，你可以让你的图标组成旋转动画，\n也可以体验图标贪吃蛇 ...\n\n在使用之前请在 \'桌面右键菜单->查看\' 中\n关闭 \'自动排列图标\' 和 \'将图标与网格对齐\'！\n此外，强烈建议先备份当前桌面布局！\n\n请选择游玩模式：");
   Fl_Button *mode0RoundButton = new Fl_Button(150, 210, 60, 30, "圆模式");
   Fl_Button *mode1RoundButton = new Fl_Button(140, 250, 80, 30, "椭圆模式");
   Fl_Button *mode2RoundButton = new Fl_Button(135, 290, 90, 30, "贪吃蛇模式");
