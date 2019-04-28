@@ -15,7 +15,9 @@
 到 [Release](https://github.com/okcy1016/icon-player/releases) 页面查看下载，解压后执行 icon_player.exe。
 
 你也可以到网盘下载。
+
 1、百度网盘：链接: https://pan.baidu.com/s/1S2tq5TcBSrJ8Zj5i6D7TmQ 提取码: mmtv。
+
 2、天翼云盘：https://cloud.189.cn/t/3YFVjiaQZzIf (icon-player.zip)
 
 # 我想自己编译该怎么办？
