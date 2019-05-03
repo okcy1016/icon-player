@@ -35,8 +35,10 @@ cd icon-player
 mingw32-make all
 ```
 
-编译完成后，进入 dist 目录中执行 icon_player.exe 即可。
-
+运行
+```shell
+./icon_player.exe
+```
 
 你也可以使用 Microsoft VS 来构建，你需要自行安装 fltk 库的相关文件，自行编译。
 
